@@ -117,7 +117,7 @@ sub {
 }
 
 img {
-	margin-right: 15px;
+	margin-right: 1.4%;
 }
 
 svg:not(:root) {
