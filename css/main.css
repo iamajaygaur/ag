@@ -2516,6 +2516,8 @@ footer {
 	width: 100%;
 	height: 5px;
 	background-color: #FF0077;
+	margin-bottom: -5%;
+	margin-top: 2%;
 }
 footer a, footer a:visited {
 	color: #FFFFFF;
